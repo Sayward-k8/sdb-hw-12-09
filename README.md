@@ -61,4 +61,7 @@ select * from test_table;
 
 ### Решение
 
-
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-09/blob/main/img/12-9-1.1.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-09/blob/main/img/12-9-1.2.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-09/blob/main/img/12-9-1.png)
+![alt text](https://github.com/Sayward-k8/sdb-hw-12-09/blob/main/img/12-9-1.png)
